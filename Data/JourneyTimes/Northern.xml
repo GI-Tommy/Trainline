@@ -1,0 +1,272 @@
+<LineData CreationDateTime="2017-06-27T10:44:06.5075788+01:00" FileName="tfl_1-NTN-_-y05-560800.xml" Modification="new" ModificationDateTime="2017-06-27T10:44:06.5075788+01:00" RevisionNumber="3" xml:lang="en">
+	<StopPoints>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Morden</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>South Wimbledon</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Colliers Wood</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Tooting Broadway</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Tooting Bec Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Balham</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Clapham South</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Clapham Common</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Clapham North</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Stockwell</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Oval</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Kennington Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Elephant &amp; Castle Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Borough Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>London Bridge Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Bank</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Moorgate Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Old Street</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Angel</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>King's Cross St. Pancras</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Euston Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Camden Town</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Kentish Town</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Tufnell Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Archway Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Highgate</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>East Finchley</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Finchley Central</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>West Finchley</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Woodside Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Totteridge &amp; Whetstone</CommonName>
+			</Descriptor>
+			</StopPoint>
+		</StopPoints>
+	<Routes><Route id="JPS_1-NTN-_-y05-560800-59-1-O">
+			<RouteNode>
+				<From>Morden</From><To>South Wimbledon</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>South Wimbledon</From><To>Colliers Wood</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Colliers Wood</From><To>Tooting Broadway</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Tooting Broadway</From><To>Tooting Bec Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Tooting Bec Station</From><To>Balham</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Balham</From><To>Clapham South</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Clapham South</From><To>Clapham Common</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Clapham Common</From><To>Clapham North</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Clapham North</From><To>Stockwell</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Stockwell</From><To>Oval</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Oval</From><To>Kennington Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Kennington Station</From><To>Elephant &amp; Castle Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Elephant &amp; Castle Station</From><To>Borough Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Borough Station</From><To>London Bridge Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>London Bridge Station</From><To>Bank</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Bank</From><To>Moorgate Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Moorgate Station</From><To>Old Street</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Old Street</From><To>Angel</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Angel</From><To>King's Cross St. Pancras</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>King's Cross St. Pancras</From><To>Euston Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Euston Station</From><To>Camden Town</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Camden Town</From><To>Kentish Town</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Kentish Town</From><To>Tufnell Park</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Tufnell Park</From><To>Archway Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Archway Station</From><To>Highgate</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Highgate</From><To>East Finchley</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>East Finchley</From><To>Finchley Central</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Finchley Central</From><To>West Finchley</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>West Finchley</From><To>Woodside Park</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Woodside Park</From><To>Totteridge &amp; Whetstone</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Totteridge &amp; Whetstone</From><To>High Barnet</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+		</Route>
+		</Routes><Services>
+		<Service>
+			<LineName>Northern</LineName><Description>Morden - Bank/Charing Cross - Camden Town - High Barnet/Edgware/Mill Hill East</Description>
+			<StandardService>
+				<Origin>Morden</Origin>
+				<Destination>High Barnet</Destination>
+				<Journey>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>UT</VehicleTypeCode>
+							<Description>Underground Train</Description>
+						</VehicleType>
+					</Operational>
+					<RouteId>JPS_1-NTN-_-y05-560800-59-1-O</RouteId>
+				</Journey>
+				</StandardService>
+		</Service>
+	</Services>
+	</LineData>

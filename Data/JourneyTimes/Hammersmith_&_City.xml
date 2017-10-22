@@ -1,0 +1,312 @@
+<LineData CreationDateTime="2017-06-27T10:42:46.3573478+01:00" FileName="tfl_1-HAM-_-y05-465600.xml" Modification="new" ModificationDateTime="2017-06-27T10:42:46.3573478+01:00" RevisionNumber="3" xml:lang="en">
+	<StopPoints>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Royal Oak</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Paddington (H&amp;C Line)</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>King's Cross St. Pancras</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>West Ham</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Barking Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>East Ham Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Upton Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Plaistow</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Bromley-By-Bow</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Bow Road Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Mile End</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Stepney Green Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Whitechapel Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Aldgate East</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Liverpool Street Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Moorgate Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2014-10-23T00:00:00">
+			<Descriptor>
+				<CommonName>Barbican</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Farringdon</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-24T00:00:00">
+			<Descriptor>
+				<CommonName>Euston Square</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-24T00:00:00">
+			<Descriptor>
+				<CommonName>Great Portland Street</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Baker Street Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Edgware Road</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Westbourne Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Ladbroke Grove</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Latimer Road</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Wood Lane</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Shepherd's Bush Market</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Goldhawk Road</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Upminster Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Upminster Bridge</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Hornchurch</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Elm Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Dagenham East</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Dagenham Heathway</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Becontree</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Upney</CommonName>
+			</Descriptor>
+			</StopPoint>
+		</StopPoints>
+	<Routes><Route id="JPS_1-HAM-_-y05-465600-179-9-I">
+			<RouteNode>
+				<From>Upminster Station</From><To>Upminster Bridge</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Upminster Bridge</From><To>Hornchurch</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Hornchurch</From><To>Elm Park</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Elm Park</From><To>Dagenham East</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Dagenham East</From><To>Dagenham Heathway</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Dagenham Heathway</From><To>Becontree</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Becontree</From><To>Upney</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Upney</From><To>Barking Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Barking Station</From><To>East Ham Station</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>East Ham Station</From><To>Upton Park</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Upton Park</From><To>Plaistow</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Plaistow</From><To>West Ham</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>West Ham</From><To>Bromley-By-Bow</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Bromley-By-Bow</From><To>Bow Road Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Bow Road Station</From><To>Mile End</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Mile End</From><To>Stepney Green Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Stepney Green Station</From><To>Whitechapel Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Whitechapel Station</From><To>Aldgate East</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Aldgate East</From><To>Liverpool Street Station</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Liverpool Street Station</From><To>Moorgate Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Moorgate Station</From><To>Barbican</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Barbican</From><To>Farringdon</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Farringdon</From><To>King's Cross St. Pancras</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>King's Cross St. Pancras</From><To>Euston Square</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Euston Square</From><To>Great Portland Street</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Great Portland Street</From><To>Baker Street Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Baker Street Station</From><To>Edgware Road</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Edgware Road</From><To>Paddington (H&amp;C Line)</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Paddington (H&amp;C Line)</From><To>Royal Oak</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Royal Oak</From><To>Westbourne Park</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Westbourne Park</From><To>Ladbroke Grove</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Ladbroke Grove</From><To>Latimer Road</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Latimer Road</From><To>Wood Lane</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Wood Lane</From><To>Shepherd's Bush Market</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Shepherd's Bush Market</From><To>Goldhawk Road</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Goldhawk Road</From><To>Hammersmith (Ham &amp; City Line)</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+		</Route>
+		</Routes><Services>
+		<Service>
+			<LineName>Hammersmith &amp; City</LineName><Description>Hammersmith - King's Cross St. Pancras - Barking</Description>
+			<StandardService>
+				<Origin>Hammersmith (Ham &amp; City Line)</Origin>
+				<Destination>Upminster Station</Destination>
+				<Journey>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>UT</VehicleTypeCode>
+							<Description>Underground Train</Description>
+						</VehicleType>
+					</Operational>
+					<RouteId>JPS_1-HAM-_-y05-465600-179-9-I</RouteId>
+				</Journey>
+				</StandardService>
+		</Service>
+	</Services>
+	</LineData>

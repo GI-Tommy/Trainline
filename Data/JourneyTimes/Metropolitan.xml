@@ -1,0 +1,208 @@
+<LineData CreationDateTime="2017-06-27T10:43:51.1732703+01:00" FileName="tfl_1-MET-_-y05-3400500.xml" Modification="new" ModificationDateTime="2017-06-27T10:43:51.1732703+01:00" RevisionNumber="3" xml:lang="en">
+	<StopPoints>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Finchley Road</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Baker Street Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Great Portland Street</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Euston Square</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>King's Cross St. Pancras</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Farringdon</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2014-10-23T00:00:00">
+			<Descriptor>
+				<CommonName>Barbican</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Moorgate Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Liverpool Street Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Chalfont &amp; Latimer</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-23T00:00:00">
+			<Descriptor>
+				<CommonName>Chorleywood</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-06-05T00:00:00">
+			<Descriptor>
+				<CommonName>Rickmansworth</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-25T00:00:00">
+			<Descriptor>
+				<CommonName>Moor Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Northwood</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Northwood Hills</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Pinner</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>North Harrow</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Harrow-on-the-Hill</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Northwick Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Preston Road Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Wembley Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-16T00:00:00">
+			<Descriptor>
+				<CommonName>Amersham</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-06-14T00:00:00">
+			<Descriptor>
+				<CommonName>Willesden Green</CommonName>
+			</Descriptor>
+			</StopPoint>
+		</StopPoints>
+	<Routes><Route id="JPS_1-MET-_-y05-3400500-508-30-O">
+			<RouteNode>
+				<From>Amersham</From><To>Chalfont &amp; Latimer</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Chalfont &amp; Latimer</From><To>Chorleywood</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Chorleywood</From><To>Rickmansworth</To><RunTimeMinutes>4</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Rickmansworth</From><To>Moor Park</To><RunTimeMinutes>4</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Moor Park</From><To>Northwood</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Northwood</From><To>Northwood Hills</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Northwood Hills</From><To>Pinner</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Pinner</From><To>North Harrow</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>North Harrow</From><To>Harrow-on-the-Hill</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Harrow-on-the-Hill</From><To>Northwick Park</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Northwick Park</From><To>Preston Road Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Preston Road Station</From><To>Wembley Park</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Wembley Park</From><To>Willesden Green</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Willesden Green</From><To>Finchley Road</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Finchley Road</From><To>Baker Street Station</To><RunTimeMinutes>6</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Baker Street Station</From><To>Great Portland Street</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Great Portland Street</From><To>Euston Square</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Euston Square</From><To>King's Cross St. Pancras</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>King's Cross St. Pancras</From><To>Farringdon</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Farringdon</From><To>Barbican</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Barbican</From><To>Moorgate Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Moorgate Station</From><To>Liverpool Street Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Liverpool Street Station</From><To>Aldgate</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+		</Route>
+		</Routes><Services>
+		<Service>
+			<LineName>Metropolitan</LineName><Description>Amersham/Chesham/Uxbridge/Watford - Baker Street - Aldgate</Description>
+			<StandardService>
+				<Origin>Amersham</Origin>
+				<Destination>Aldgate</Destination>
+				<Journey>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>UT</VehicleTypeCode>
+							<Description>Underground Train</Description>
+						</VehicleType>
+					</Operational>
+					<RouteId>JPS_1-MET-_-y05-3400500-508-30-O</RouteId>
+				</Journey>
+				</StandardService>
+		</Service>
+	</Services>
+	</LineData>

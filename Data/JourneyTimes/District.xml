@@ -1,0 +1,360 @@
+<LineData CreationDateTime="2017-06-27T10:38:54.3615838+01:00" FileName="tfl_1-DIS-_-y05-1490111.xml" Modification="new" ModificationDateTime="2017-06-27T10:38:54.3615838+01:00" RevisionNumber="3" xml:lang="en">
+	<StopPoints>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Ealing Broadway</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Ealing Common</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-16T00:00:00">
+			<Descriptor>
+				<CommonName>Acton Town</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Chiswick Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Turnham Green</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Stamford Brook</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Ravenscourt Park Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Hammersmith</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Barons Court</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>West Kensington</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Earl's Court</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Gloucester Road</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>South Kensington</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Sloane Square</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Victoria</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>St James's Park Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Westminster</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Embankment</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Temple</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Blackfriars</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Mansion House</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2014-10-23T00:00:00">
+			<Descriptor>
+				<CommonName>Cannon Street</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Monument</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Upminster Bridge</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Elm Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Upney</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>West Ham</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Tower Hill</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Aldgate East</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Whitechapel Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Stepney Green Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Mile End</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Bow Road Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Bromley-By-Bow</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Plaistow</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Upton Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>East Ham Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Barking Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Becontree</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-23T00:00:00">
+			<Descriptor>
+				<CommonName>Dagenham Heathway</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Dagenham East</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Hornchurch</CommonName>
+			</Descriptor>
+			</StopPoint>
+	</StopPoints>
+	<Routes><Route id="JPS_1-DIS-_-y05-1490111-35-3-O">
+			<RouteNode>
+				<From>Ealing Broadway</From><To>Ealing Common</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Ealing Common</From><To>Acton Town</To><RunTimeMinutes>3</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Acton Town</From><To>Chiswick Park</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Chiswick Park</From><To>Turnham Green</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Turnham Green</From><To>Stamford Brook</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Stamford Brook</From><To>Ravenscourt Park Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Ravenscourt Park Station</From><To>Hammersmith</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Hammersmith</From><To>Barons Court</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Barons Court</From><To>West Kensington</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>West Kensington</From><To>Earl's Court</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Earl's Court</From><To>Gloucester Road</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Gloucester Road</From><To>South Kensington</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>South Kensington</From><To>Sloane Square</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Sloane Square</From><To>Victoria</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Victoria</From><To>St James's Park Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>St James's Park Station</From><To>Westminster</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Westminster</From><To>Embankment</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Embankment</From><To>Temple</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Temple</From><To>Blackfriars</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Blackfriars</From><To>Mansion House</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Mansion House</From><To>Cannon Street</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Cannon Street</From><To>Monument</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Monument</From><To>Tower Hill</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Tower Hill</From><To>Aldgate East</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Aldgate East</From><To>Whitechapel Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Whitechapel Station</From><To>Stepney Green Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Stepney Green Station</From><To>Mile End</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Mile End</From><To>Bow Road Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Bow Road Station</From><To>Bromley-By-Bow</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Bromley-By-Bow</From><To>West Ham</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>West Ham</From><To>Plaistow</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Plaistow</From><To>Upton Park</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Upton Park</From><To>East Ham Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>East Ham Station</From><To>Barking Station</To><RunTimeMinutes>4</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Barking Station</From><To>Upney</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Upney</From><To>Becontree</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Becontree</From><To>Dagenham Heathway</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Dagenham Heathway</From><To>Dagenham East</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Dagenham East</From><To>Elm Park</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Elm Park</From><To>Hornchurch</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Hornchurch</From><To>Upminster Bridge</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Upminster Bridge</From><To>Upminster Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+		</Route>
+		</Routes><Services>
+		<Service>
+			<LineName>District</LineName><Description>Ealing Broadway/Richmond/Wimbledon - Earl's Court - Upminster/Edgware Road</Description>
+			<StandardService>
+				<Origin>Ealing Broadway</Origin>
+				<Destination>Upminster Station</Destination>
+				<Journey>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>UT</VehicleTypeCode>
+							<Description>Underground Train</Description>
+						</VehicleType>
+					</Operational>
+					<RouteId>JPS_1-DIS-_-y05-1490111-35-3-O</RouteId>
+				</Journey>
+				</StandardService>
+		</Service>
+	</Services>
+	</LineData>

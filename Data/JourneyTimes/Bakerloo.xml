@@ -1,0 +1,216 @@
+<LineData CreationDateTime="2017-06-27T10:33:37.1613508+01:00" FileName="tfl_1-BAK-_-y05-420100.xml" Modification="new" ModificationDateTime="2017-06-27T10:33:37.1769503+01:00" RevisionNumber="3" xml:lang="en">
+	<StopPoints>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Elephant &amp; Castle Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Lambeth North</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Waterloo</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Embankment</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Charing Cross</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Piccadilly Circus</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Oxford Circus</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Regent's Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Baker Street Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Marylebone</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Edgware Road</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Paddington</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Warwick Avenue</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Maida Vale Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Kilburn Park</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Queen's Park Station (London)</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-25T00:00:00">
+			<Descriptor>
+				<CommonName>Kensal Green Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Willesden Junction Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-05-24T00:00:00">
+			<Descriptor>
+				<CommonName>Harlesden Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2017-06-09T00:00:00">
+			<Descriptor>
+				<CommonName>Stonebridge Park Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Wembley Central Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>North Wembley Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>South Kenton Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		<StopPoint CreationDateTime="2013-08-29T00:00:00">
+			<Descriptor>
+				<CommonName>Kenton Station</CommonName>
+			</Descriptor>
+			</StopPoint>
+		</StopPoints>
+	<Routes><Route id="JPS_1-BAK-_-y05-420100-79-3-O">
+			<RouteNode>
+				<From>Elephant &amp; Castle Station</From><To>Lambeth North</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Lambeth North</From><To>Waterloo</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Waterloo</From><To>Embankment</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Embankment</From><To>Charing Cross</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Charing Cross</From><To>Piccadilly Circus</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Piccadilly Circus</From><To>Oxford Circus</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Oxford Circus</From><To>Regent's Park</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Regent's Park</From><To>Baker Street Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Baker Street Station</From><To>Marylebone</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Marylebone</From><To>Edgware Road</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Edgware Road</From><To>Paddington</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Paddington</From><To>Warwick Avenue</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Warwick Avenue</From><To>Maida Vale Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Maida Vale Station</From><To>Kilburn Park</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Kilburn Park</From><To>Queen's Park Station (London)</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Queen's Park Station (London)</From><To>Kensal Green Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Kensal Green Station</From><To>Willesden Junction Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Willesden Junction Station</From><To>Harlesden Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Harlesden Station</From><To>Stonebridge Park Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Stonebridge Park Station</From><To>Wembley Central Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Wembley Central Station</From><To>North Wembley Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>North Wembley Station</From><To>South Kenton Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>South Kenton Station</From><To>Kenton Station</To><RunTimeMinutes>1</RunTimeMinutes>
+			</RouteNode>
+			<RouteNode>
+				<From>Kenton Station</From><To>Harrow &amp; Wealdstone Station</To><RunTimeMinutes>2</RunTimeMinutes>
+			</RouteNode>
+		</Route>
+		</Routes><Services>
+		<Service>
+			<LineName>Bakerloo</LineName><Description>Elephant &amp; Castle - Oxford Circus - Harrow &amp; Wealdstone</Description>
+			<StandardService>
+				<Origin>Elephant &amp; Castle Station</Origin>
+				<Destination>Harrow &amp; Wealdstone Station</Destination>
+				<Journey>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>UT</VehicleTypeCode>
+							<Description>Underground Train</Description>
+						</VehicleType>
+					</Operational>
+					<RouteId>JPS_1-BAK-_-y05-420100-79-3-O</RouteId>
+				</Journey>
+				</StandardService>
+		</Service>
+	</Services>
+	</LineData>
